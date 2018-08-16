@@ -8,3 +8,4 @@
   <p>4.
 <a href="https://daskpfoundation.github.io/KytZuneia/Alpha%201.2.3/De_Home.html">You can visit the site here (Alpha 1.2.3)</a>
   </p>
+<a href="https://github.com/DasKPFoundation/KytZuneia/releases">Release</a>

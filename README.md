@@ -9,3 +9,5 @@
   <p>*
 <a href="https://github.com/DasKPFoundation/KytZuneia/releases">Release</a>
 </p>
+
+<p> This site is made for fun </p>
